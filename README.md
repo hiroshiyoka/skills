@@ -31,8 +31,7 @@ This is a shortcut to specs that are actually build-ready, not just a wall of pr
 - **[spec-suite](./skills/spec-suite/SKILL.md)** — Turns a raw idea into a full build-ready spec: naming shortlist, PRD, tech spec, design system, data/API spec, and a self-contained AI agent build prompt, in that order.
 - **[pick-stack](./skills/pick-stack/SKILL.md)** — Have your agent pick the right library, framework, or service from a trusted, pre-vetted list instead of hand-rolling a component or installing something abandoned.
 - **[local-first-architecture](./skills/local-first-architecture/SKILL.md)** — Decide deliberately whether a project should be local-first (no backend) or backend-required, with a checklist instead of a default-by-habit.
-
-More skills are on the way, covering codebase audits against Clean Code / SOLID / DRY / YAGNI / KISS. Check back or watch this repo for updates.
+- **[principles-check](./skills/principles-check/SKILL.md)** — Audit a codebase against Clean Code, SOLID, DRY, YAGNI, and KISS, and get a prioritized, actionable fix plan instead of vague "this could be cleaner" feedback.
 
 ## Philosophy
 
