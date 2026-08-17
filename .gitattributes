@@ -1,0 +1,21 @@
+* text=auto eol=lf
+
+*.md text eol=lf diff=markdown
+
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+*.sh text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.zip binary
+
+skills/**/SKILL.md linguist-detectable
+README.md linguist-documentation
