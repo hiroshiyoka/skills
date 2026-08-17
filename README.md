@@ -40,10 +40,6 @@ More skills are on the way, covering codebase audits against Clean Code / SOLID 
 - **Specs should be precise enough to remove ambiguity, not just describe intent.** "Build a task tracker" is not a spec. A named data model, a stated out-of-scope list, and a defined stack are.
 - **Defaults exist so they don't need to be re-decided every time.** These skills encode a consistent, opinionated stack (TypeScript-first, TanStack, Cloudflare Workers/Pages, local-first where it fits) so that decision doesn't get re-litigated on every new project — while still leaving room to deviate deliberately when a project calls for it.
 
-## About
-
-Skills for turning ideas into build-ready specs for AI coding agents.
-
 ## License
 
 MIT
