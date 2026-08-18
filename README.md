@@ -9,13 +9,13 @@ These skills are a distillation of the same planning workflow used to ship every
 ## Install
 
 ```bash
-npx skills add hiroshiyoka/skill
+npx skills add hiroshiyoka/skills
 ```
 
 Or install a single skill:
 
 ```bash
-npx skills add hiroshiyoka/skill/spec-suite
+npx skills add hiroshiyoka/skills/spec-suite
 ```
 
 ## Why use it?
@@ -32,6 +32,7 @@ This is a shortcut to specs that are actually build-ready, not just a wall of pr
 - **[pick-stack](./skills/pick-stack/SKILL.md)** — Have your agent pick the right library, framework, or service from a trusted, pre-vetted list instead of hand-rolling a component or installing something abandoned.
 - **[local-first-architecture](./skills/local-first-architecture/SKILL.md)** — Decide deliberately whether a project should be local-first (no backend) or backend-required, with a checklist instead of a default-by-habit.
 - **[principles-check](./skills/principles-check/SKILL.md)** — Audit a codebase against Clean Code, SOLID, DRY, YAGNI, and KISS, and get a prioritized, actionable fix plan instead of vague "this could be cleaner" feedback.
+- **[name-it](./skills/name-it/SKILL.md)** — Generate a shortlist of single-word, brand-friendly project names from a short description. Usable standalone, or as spec-suite's naming stage.
 
 ## Philosophy
 
