@@ -34,6 +34,7 @@ This is a shortcut to specs that are actually build-ready, not just a wall of pr
 - **[principles-check](./skills/principles-check/SKILL.md)** — Audit a codebase against Clean Code, SOLID, DRY, YAGNI, and KISS, and get a prioritized, actionable fix plan instead of vague "this could be cleaner" feedback.
 - **[name-it](./skills/name-it/SKILL.md)** — Generate a shortlist of single-word, brand-friendly project names from a short description. Usable standalone, or as spec-suite's naming stage.
 - **[conventional-commits](./skills/conventional-commits/SKILL.md)** — Write commit messages in a consistent, parseable `type(scope): description` format across every repo.
+- **[smart-contract-patterns](./skills/smart-contract-patterns/SKILL.md)** — Apply proven Solidity patterns (multi-token whitelisting, isolated per-currency balances, soulbound tokens, escrow) instead of designing contract structure from scratch.
 
 ## Philosophy
 
