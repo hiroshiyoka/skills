@@ -33,6 +33,7 @@ This is a shortcut to specs that are actually build-ready, not just a wall of pr
 - **[local-first-architecture](./skills/local-first-architecture/SKILL.md)** — Decide deliberately whether a project should be local-first (no backend) or backend-required, with a checklist instead of a default-by-habit.
 - **[principles-check](./skills/principles-check/SKILL.md)** — Audit a codebase against Clean Code, SOLID, DRY, YAGNI, and KISS, and get a prioritized, actionable fix plan instead of vague "this could be cleaner" feedback.
 - **[name-it](./skills/name-it/SKILL.md)** — Generate a shortlist of single-word, brand-friendly project names from a short description. Usable standalone, or as spec-suite's naming stage.
+- **[conventional-commits](./skills/conventional-commits/SKILL.md)** — Write commit messages in a consistent, parseable `type(scope): description` format across every repo.
 
 ## Philosophy
 
