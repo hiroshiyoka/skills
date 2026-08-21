@@ -35,6 +35,7 @@ This is a shortcut to specs that are actually build-ready, not just a wall of pr
 - **[name-it](./skills/name-it/SKILL.md)** — Generate a shortlist of single-word, brand-friendly project names from a short description. Usable standalone, or as spec-suite's naming stage.
 - **[conventional-commits](./skills/conventional-commits/SKILL.md)** — Write commit messages in a consistent, parseable `type(scope): description` format across every repo.
 - **[smart-contract-patterns](./skills/smart-contract-patterns/SKILL.md)** — Apply proven Solidity patterns (multi-token whitelisting, isolated per-currency balances, soulbound tokens, escrow) instead of designing contract structure from scratch.
+- **[dlmm-strategy-signals](./skills/dlmm-strategy-signals/SKILL.md)** — Named Meteora DLMM strategy profiles (screening, entry, exit) plus a six-checkpoint framework for ongoing position monitoring, instead of re-deriving thresholds per bot.
 
 ## Philosophy
 
